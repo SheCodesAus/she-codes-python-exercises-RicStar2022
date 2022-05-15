@@ -40,7 +40,6 @@
 username = input("Please enter your username")
 password = input("Please enter your password")
 
-
 login = username and password
 
 if login is True:
